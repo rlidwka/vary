@@ -1,7 +1,7 @@
 <h1>
   <table width="100%" border=0><tr>
     <td>vary</td>
-    <td align="right"><a href="https://jshttp.github.io/"><img src="https://jshttp.github.io/jshttp.svg" height="50px" border="0"></td>
+    <td align="right" width="100%"><a href="https://jshttp.github.io/"><img src="https://jshttp.github.io/jshttp.svg" height="50px" border="0"></td>
   </tr></table>
 </h1>
 
