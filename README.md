@@ -1,5 +1,4 @@
-<h1><a href="https://jshttp.github.io/"><img src="https://jshttp.github.io/jshttp.svg" height="50px" border="0"></a>
- / vary</h1>
+<h1><table><tr><td>vary</td><td align="right"><a href="https://jshttp.github.io/"><img src="https://jshttp.github.io/jshttp.svg" height="50px" border="0"></td></h1>
 
 [![NPM Version](http://img.shields.io/npm/v/vary.svg?style=flat)](https://www.npmjs.org/package/vary)
 [![NPM Downloads](https://img.shields.io/npm/dm/vary.svg?style=flat)](https://www.npmjs.org/package/vary)
